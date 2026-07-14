@@ -1,1 +1,38 @@
-
+[
+  {
+    "id": 1,
+    "name": "هاتف ذكي",
+    "price": "45000 دج",
+    "image": "https://picsum.photos/400/300?random=1"
+  },
+  {
+    "id": 2,
+    "name": "حاسوب محمول",
+    "price": "85000 دج",
+    "image": "https://picsum.photos/400/300?random=2"
+  },
+  {
+    "id": 3,
+    "name": "سماعات لاسلكية",
+    "price": "5000 دج",
+    "image": "https://picsum.photos/400/300?random=3"
+  },
+  {
+    "id": 4,
+    "name": "لوحة مفاتيح",
+    "price": "3500 دج",
+    "image": "https://picsum.photos/400/300?random=4"
+  },
+  {
+    "id": 5,
+    "name": "فأرة ألعاب",
+    "price": "2500 دج",
+    "image": "https://picsum.photos/400/300?random=5"
+  },
+  {
+    "id": 6,
+    "name": "شاشة 24 بوصة",
+    "price": "32000 دج",
+    "image": "https://picsum.photos/400/300?random=6"
+  }
+]
